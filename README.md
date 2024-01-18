@@ -1,5 +1,5 @@
 # Wiki Platform
-
+![dashboard](https://github.com/HAMZA7onx/Posts_Manager_App/assets/88968389/b98e1d0e-d910-472a-86ad-e14ea8a667b9)
 Wiki Platform is an online plateform designed to provide an efficient backend coupled with a user-friendly frontend, aiming to deliver an exceptional user experience.
 
 ## Project Overview
